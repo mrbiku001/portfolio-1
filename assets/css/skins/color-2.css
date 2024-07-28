@@ -1,0 +1,17 @@
+:root{
+    --primary-color: #B6BBC4;
+  --primary-color-alt: #31304D;
+  --linear-gradient: linear-gradient(
+    54deg,
+    rgba(74, 76, 179, 0.95) 34%,
+    hsla(0, 34%, 71%, 0.95)
+  );
+
+  /* ======= Colors ======= */
+  --title-color: #31304D;
+  --text-color: #B6BBC4;
+  --text-color-alt: #999;
+  --bg-color: #161A30;
+  --bg-color-alt: #31304D;
+  --border-color: #F0ECE5;
+}
